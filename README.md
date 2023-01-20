@@ -25,13 +25,14 @@
 ## ❗  - Installation:
 #### 1st・Installation (Source Code)
 ```
-git clone https://github.com/hashkiller/Eternity-STRESSER
+git clone https://github.com/giaquy-Dev/Eternity-DDOS
+cd Eternity-DDOS
 pip install -r requirements.txt
 python main.py
 ```
 
-- Make sure to join my [discord](https://dsc.gg/hackinghub)and fill free to dm me @hashkiller#5141. Thanks for using Eternity STRESSER!
-- Coded / Developed by hashkiller#5141
+- Thanks for using Eternity STRESSER-DDOS!
+- Coded / Developed by dgq devloper
 
 
 ![image](https://media.discordapp.net/attachments/1050051149455175750/1058318945532268595/image.png?width=960&height=382)
