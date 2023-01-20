@@ -35,7 +35,6 @@ python main.py
 - Coded / Developed by dgq devloper
 
 
-![image](https://media.discordapp.net/attachments/1050051149455175750/1058318945532268595/image.png?width=960&height=382)
 
 
 
