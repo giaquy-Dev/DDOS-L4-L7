@@ -811,7 +811,7 @@ if __name__ == '__main__':
 	if choice_l == '0':
 		starturl()
 	elif choice_l == '1':
-		os.system('cls')
+		os.system('clear')
 		os.system('python l4.py')
 		
 	
